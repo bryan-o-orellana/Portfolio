@@ -42,7 +42,7 @@ An exercise using the Northwind datasets where I explored sales insights.
 ## 📈 Featured Forecast Pro Projects
 
 ### 1. [Sales Forecasting](https://github.com/bryan-o-orellana/Sales_Forecasting)
-This real-world projection work was done for the company Intermoda S.A., all the data is their property, therefore I cannot share the complete dataset.
+This real-world projection work was done for the company Intermoda S.A.
 
 ---
 ## 📈 About Me
