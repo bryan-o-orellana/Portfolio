@@ -32,6 +32,8 @@ Comprehensive analysis of sales and inventory performance for the fashion brand 
 ### 2. [Summary KKAA 2025 — Intermoda](https://github.com/bryan-o-orellana/Summary_KKAA_2025_Intermoda)
 Executive dashboard presented at **Intermoda 2025**, highlighting sales trends by line and category, and inventory distribution.
 
+### 3. [Performance by desing](https://github.com/bryan-o-orellana/performance_by_design)
+This project was developed for the **Design Department**, who needed visibility into which product styles were performing well and which ones were not.
 ---
 ## 🛢️ Featured SQL Projects
 
