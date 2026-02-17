@@ -26,13 +26,13 @@ This repository serves as my <b>BI portfolio</b>, showcasing real-world projects
 ---
 ## 📊 Featured Power BI Projects
 
-### 1. [Sell Out & Inventories — KKAA](https://github.com/bryan-o-orellana/Sell_Out_and_Inventories_KKAA)
+### 1. [Sell Out & Inventories — Intermoda](https://github.com/bryan-o-orellana/Sell_Out_and_Inventories_KKAA)
 Comprehensive analysis of sales and inventory performance for the fashion brand **PEPE**. 
 
 ### 2. [Summary KKAA 2025 — Intermoda](https://github.com/bryan-o-orellana/Summary_KKAA_2025_Intermoda)
 Executive dashboard presented at **Intermoda 2025**, highlighting sales trends by line and category, and inventory distribution.
 
-### 3. [PERFORMANCE BY DESIGN](https://github.com/bryan-o-orellana/performance_by_design
+### 3. [Performance by design - Intermoda](https://github.com/bryan-o-orellana/performance_by_design)
 This project was developed for the **Design Department**, who needed visibility into which product styles were performing well and which ones were not.
 
 ---
@@ -44,7 +44,7 @@ An exercise using the Northwind datasets where I explored sales insights.
 ---
 ## 📈 Featured Forecast Pro Projects
 
-### 1. [Sales Forecasting](https://github.com/bryan-o-orellana/Sales_Forecasting)
+### 1. [Sales Forecasting - Intermoda](https://github.com/bryan-o-orellana/Sales_Forecasting)
 This real-world projection work was done for the company Intermoda S.A.
 
 ---
