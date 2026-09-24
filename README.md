@@ -7,15 +7,16 @@
   </h3>
 
   <p style="font-size: 1.05em; color: #CCD6F6; max-width: 700px;">
-    I combine <b>Power BI</b>, <b>Excel</b>, <b>SQL</b> and <b>AI TOOLS</b>, to transform data into actionable insights.
+    I combine <b>Power BI</b>, <b>Excel</b>, <b>SQL</b> and <b>AI Tools</b>, to transform data into actionable insights.
 Passionate about uncovering patterns, optimizing process, and telling stories with data.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI tools-316192?style=for-the-badge&logo=postgresql&logoColor=orange"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/Forecast%20Pro-005C99?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
