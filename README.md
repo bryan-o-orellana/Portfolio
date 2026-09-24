@@ -7,8 +7,8 @@
   </h3>
 
   <p style="font-size: 1.05em; color: #CCD6F6; max-width: 700px;">
-    I combine <b>SQL</b>, <b>Power BI</b>, and <b>Excel</b> to transform data into actionable insights.
-Passionate about uncovering patterns, optimizing decisions, and telling stories with data.
+    I combine <b>Power BI</b>, <b>Excel</b>, <b>SQL</b> and <b>AI TOOLS</b>, to transform data into actionable insights.
+Passionate about uncovering patterns, optimizing process, and telling stories with data.
   </p>
 
   <p>
