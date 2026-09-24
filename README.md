@@ -1,30 +1,42 @@
-<div align="center" style="background:linear-gradient(90deg, #0A192F, #112240, #172A45); padding:25px; border-radius:15px; color:black;">
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:172A45&height=140&section=header&text=BRYAN%20ORELLANA&fontSize=48&fontColor=c76e00&fontAlignY=40&desc=BUSINESS%20INTELLIGENCE🧠%20%7C%20DATA%20ANALYST📊&descSize=20&descColor=CCD6F6&descAlignY=65&animation=fadeIn"
+    width="100%"
+  />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B59B6&background=E8E8E8&center=true&vCenter=true&width=750&height=50&lines=Turning+data+into+actionable+insights;Building+BI+dashboards+and+reports;Automating+business+processes+with+AI"/>
+</p>
+<div align="center">
+<h1>👋 Hello, I'm <span style="color:#64FFDA;">Bryan Orellana</span></h1>
+<p>
+ I enjoy turning business data into <b>clear insights, efficient processes, and better decisions.</b>
+</p>
+<p>
+  I work with data across <b>sales, inventory, operations, and performance reporting</b>,
+  combining BI tools, SQL, automation, and AI to solve real-world business problems.
+</p>
 
-  <h1 style="font-size: 2.2em;">👋 Hello I'm <span style="color:#64FFDA;">Bryan Orellana</span></h1>
-  
-  <h3 style="font-weight: 400; color: #A8B2D1;">
-   📊 Data Analyst | Business Intelligence 
-  </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20%26%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forecast%20Pro-005C99?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+</p>
 
-  <p style="font-size: 1.05em; color: #CCD6F6; max-width: 700px;">
-    I combine <b>Power BI</b>, <b>Excel</b>, <b>SQL</b> and <b>AI Tools</b>, to transform data into actionable insights.
-Passionate about uncovering patterns, optimizing process, and telling stories with data.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AI tools-316192?style=for-the-badge&logo=chatgpt&logoColor=purple"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Forecast%20Pro-005C99?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  </p>
-This repository serves as my <b>BI portfolio</b>, showcasing real-world projects focused on sales, inventory management, and executive reporting.
+<p>
+  <i>Welcome to my BI portfolio 🚀</i>
+</p>
+<p>
+  This repository showcases projects focused on
+  <b>sales analytics, inventory management, reporting, automation, and data-driven decision making.</b>
+</p>
 </div>
 
----
 ## 📊 Featured Power BI Projects
 
 ### 1. [Sell Out & Inventories — Intermoda](https://github.com/bryan-o-orellana/Sell_Out_and_Inventories_KKAA)
