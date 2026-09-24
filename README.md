@@ -16,7 +16,7 @@ Passionate about uncovering patterns, optimizing process, and telling stories wi
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AI tools-316192?style=for-the-badge&logo=ClaudeAI&logoColor=purple"/>
+    <img src="https://img.shields.io/badge/AI tools-316192?style=for-the-badge&logo=chatgpt&logoColor=purple"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/Forecast%20Pro-005C99?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
@@ -39,7 +39,7 @@ This project was developed for the **Design Department**, who needed visibility 
 ---
 ## 🤖 Featured CLAUDE AI Projects
 
-### 1. [Perfect Store Evaluation](https://github.com/bryan-o-orellana/Tienda-Perfecta)
+### 1. [Perfect Store Evaluation - Intermoda](https://github.com/bryan-o-orellana/Tienda-Perfecta)
 A web application designed to digitize, centralize, and simplify the monthly Perfect Store Evaluation process used by Trade Marketing teams to assess brand execution across retail stores.
 
 ---
