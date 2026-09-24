@@ -36,6 +36,12 @@ Executive dashboard presented at **Intermoda 2025**, highlighting sales trends b
 This project was developed for the **Design Department**, who needed visibility into which product styles were performing well and which ones were not.
 
 ---
+## 🤖 Featured CLAUDE AI Projects
+
+### 1. [Perfect Store Evaluation](https://github.com/bryan-o-orellana/Tienda-Perfecta)
+A web application designed to digitize, centralize, and simplify the monthly Perfect Store Evaluation process used by Trade Marketing teams to assess brand execution across retail stores.
+
+---
 ## 🛢️ Featured SQL Projects
 
 ### 1. [SQL Northwind Datasets](https://github.com/bryan-o-orellana/Northwind-SQL-project)
