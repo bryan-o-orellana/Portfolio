@@ -2,10 +2,9 @@
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:172A45&height=140&section=header&text=BRYAN%20ORELLANA&fontSize=48&fontColor=c76e00&fontAlignY=40&desc=BUSINESS%20INTELLIGENCE🧠%20%7C%20DATA%20ANALYST📊&descSize=20&descColor=CCD6F6&descAlignY=65&animation=fadeIn"
     width="100%"
-  />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B59B6&background=E8E8E8&center=true&vCenter=true&width=750&height=50&lines=Turning+data+into+actionable+insights;Building+BI+dashboards+and+reports;Automating+business+processes+with+AI"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B59B6&background=E8E8E8&center=true&vCenter=true&width=750&height=50&lines=Turning+data+into+actionable+insights;Building+BI+dashboards+and+reports;Automating+business+processes+with+AI;Transforming+data+into+strategic+business+decisions"/>
 </p>
 <div align="center">
 <h1>👋 Hello, I'm <span style="color:#64FFDA;">Bryan Orellana</span></h1>
