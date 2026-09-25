@@ -35,6 +35,9 @@
   <b>sales analytics, inventory management, reporting, automation, and data-driven decision making.</b>
 </p>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E8E8E8&height=60&section=header&text=👇%20Explore%20my%20projects%20👇&fontSize=24&fontColor=9B59B6&fontAlignY=50"/>
+</p>
 
 ## 📊 Featured Power BI Projects
 
