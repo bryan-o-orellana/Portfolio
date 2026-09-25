@@ -69,7 +69,7 @@ An exercise using the Northwind datasets where I explored sales insights.
 This real-world projection work was done for the company Intermoda S.A.
 
 ---
-## 📈 About Me
+## 🧑🏻‍💼 About Me
 
 I currently work as a **Business Intelligence Analyst at Intermoda S.A.**, where I design dashboards, automate reports, and support strategic decision-making across departments.  
 My professional background combines **data analytics, business insight, and technical expertise** — with a constant drive to simplify data for real impact.
